@@ -26,7 +26,6 @@ To explore patterns of plant uses in Colombia—such as medicinal, food, cosmeti
 ## 📊 Main analyses
 
 - Summary statistics of use categories
-- Missing data visualization with `DataExplorer`
 - Interactive pie charts, histograms, and funnel plots with `plotly`
 - Frequency analysis of uses per department
 - Generation of maps with `ggplot2` and `sf` (per-use and total)
